@@ -1,0 +1,5 @@
+Something amazing happened: my respect for a company has increased as I unpacked their saved file format.
+I picked up a Brother QL-700 label maker for the New West Amateur Radio Club (nwarc.org). I created a test label, saved it as alecto.lbx (the native extension). /usr/bin/file tells me that this simply a zip archive.
+
+Shocklingly, this is true. It unpacks into three files, a tif for the graphic, the label itself as a really nice xml, and a metadata file, prop.xml.
+
